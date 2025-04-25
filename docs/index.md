@@ -1,4 +1,10 @@
 <link rel="stylesheet" href="assets/css/style.css">
 
 
-# Hello, Hello github pages
+---
+layout: default
+title: Home
+---
+
+# Hello, GitHub Pages!
+This page has a sidebar!
