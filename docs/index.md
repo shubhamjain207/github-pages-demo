@@ -12,6 +12,6 @@
 
   <div class="content">
     <h1>Hello, GitHub Pages!</h1>
-    <p>This is my homepage with a sidebar!</p>
+    <p>This is my homepage with a left-aligned sidebar layout.</p>
   </div>
 </div>
