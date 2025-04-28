@@ -6,7 +6,7 @@
     <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="page2.html">Page 2</a></li>
-      <li><a href="page3.md">Page 3</a></li>
+      <li><a href="page3.html">Page 3</a></li>
     </ul>
   </div>
 
