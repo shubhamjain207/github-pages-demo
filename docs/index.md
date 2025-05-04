@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.css" />
+<link rel="stylesheet" href="assets/css/docsindex.css" />
 
 <div class="main-container">
   <div class="container">
