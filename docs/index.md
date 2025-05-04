@@ -18,30 +18,13 @@
 
 <link rel="stylesheet" href="assets/css/style.css" />
 
----
-home: true
-heroImage: logo.svg
-footer: Copyright © 2023 Moshpit Technologies Pvt. Ltd.
----
-
 <div class="features">
   <div class="feature">
-    <img src="assets/images/deviceconnect.png" alt="DeviceConnect" style="width: 100px;" />
+    <img src="assets/images/deviceconnect.png" alt="DeviceConnect" class="feature-img" />
     <h2>DeviceConnect</h2>
     <p>
       Lets businesses get access to enriched Android mobile device data of customers to build lending and wealth management apps.
     </p>
-    <p>
-      <a href="device-connect/" class="doc_link">See Documentation →</a>
-    </p>
-  </div>
-  <div class="feature">
-    <h2>BankConnect</h2>
-    <p>
-      Lets businesses get access to enriched transaction data of customers using bank statements uploaded manually or via Net Banking.
-    </p>
-    <p>
-      <a href="session-flow/" class="doc_link">See Documentation →</a>
-    </p>
+    <a href="device-connect/" class="doc_link">See Documentation →</a>
   </div>
 </div>
