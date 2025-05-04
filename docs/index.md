@@ -34,7 +34,7 @@ footer: Copyright © 2023 Moshpit Technologies Pvt. Ltd.
 }
 
 .home .doc_link:hover {
-    border-bottom-width: 1px;
+    border-bottom-width: 10px;
     border-bottom-style: solid;
     padding-bottom: 3px;
 }
