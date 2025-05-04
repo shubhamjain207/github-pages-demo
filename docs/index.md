@@ -2,7 +2,7 @@
 
 <div class="features">
   <div class="feature">
-    <img src="assets/images/deviceconnect.png" alt="DeviceConnect" style="width: 100px;" />
+    <img src="assets/images/credeaulogo.png" alt="DeviceConnect" style="width: 100px;" />
     <h2>DeviceConnect</h2>
     <p>
       Lets businesses get access to enriched Android mobile device data of customers to build lending and wealth management apps.
