@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.css" />
+<link rel="stylesheet" href="assets/css/docsindex.css" />
 
 <div class="centered-content">
   <img src="assets/images/credeaulogo.png" alt="Credeau SDK Logo" class="sdk-logo" />
