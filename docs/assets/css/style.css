@@ -16,10 +16,10 @@ body {
 
 .sidebar {
   flex-shrink: 0;
-  width: 350px;
+  width: 300px;
   background-color: #f7921e;
   color: white;
-  padding: 40px;
+  padding: 30px;
   height: 100vh;
   display: flex;
   flex-direction: column;
