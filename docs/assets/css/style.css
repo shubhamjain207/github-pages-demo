@@ -38,12 +38,11 @@ body {
 .sidebar ul {
   list-style: none;
   padding: 0; /* Add this */
-  display: inline-block;
+  display:flex;
 }
 
 .sidebar li {
   margin: 20px 0;
-  display: inline-block;
 }
 
 .sidebar a {
