@@ -74,3 +74,22 @@ body {
   font-size: 1.1rem;
   color: #555;
 }
+
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 20px 40px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  height: 40px;
+  margin-right: 20px;
+}
+
+.title {
+  font-size: 1.8rem;
+  color: #333;
+  font-weight: bold;
+}

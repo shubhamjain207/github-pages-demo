@@ -1,5 +1,10 @@
 <link rel="stylesheet" href="assets/css/style.css" />
 
+<div class="header">
+  <img src="assets/images/credeaulogo.png" alt="Credeau Logo" class="logo" />
+  <h1 class="title">Credeau Docs</h1>
+</div>
+
 <div class="container">
   <div class="sidebar">
     <h2>Menu</h2>
