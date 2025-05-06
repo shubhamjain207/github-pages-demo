@@ -57,7 +57,7 @@ body {
 
 .content {
   flex: 1;
-  padding: 40px;
+  padding: 40px 100px;
   background-color: #ffffff;
   width: calc(100% - 350px);
   border: 2px solid blue;
