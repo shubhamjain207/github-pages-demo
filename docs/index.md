@@ -7,6 +7,6 @@
     Provides businesses with enriched data from customers' Android devices to power lending and wealth management applications.
   </p>
   <p>
-    <a href="sidebarmain.html" class="doc_link">See Documentation →</a>
+    <a href="introduction.html" class="doc_link">See Documentation →</a>
   </p>
 </div>

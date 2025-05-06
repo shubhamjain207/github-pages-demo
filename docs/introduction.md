@@ -7,7 +7,7 @@
 
 <div class="layout">
   <div class="sidebar">
-    <h2>Menu</h2>
+    <h2>Overview</h2>
     <ul>
       <li><a href="introduction.html">Introduction</a></li>
       <li><a href="gettingstarted.html">Getting Started</a></li>
@@ -20,7 +20,7 @@
       <li><a href="gettingstarted.html">Getting Started</a></li>
       <li><a href="integration.html">Integration</a></li>
     </ul>
-    
+
   </div>
 
   <div class="content">
