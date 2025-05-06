@@ -1,7 +1,2 @@
 name: something
 title: null
-nav:
-  - name: Home
-    link: /
-  - name: Docs
-    link: /docs/
