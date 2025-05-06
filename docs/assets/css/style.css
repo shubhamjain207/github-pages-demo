@@ -11,6 +11,8 @@ body {
   display: flex;
   height: calc(100vh - 80px); 
   width: 100%;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .sidebar {
@@ -27,6 +29,7 @@ body {
   margin-bottom: 30px;
   border-bottom: 2px solid white;
   padding-bottom: 10px;
+  color:red;
 }
 
 .sidebar ul {
