@@ -53,8 +53,10 @@ body {
 
 .content {
   flex: 1;
-  padding: 60px;
+  padding: 40px; /* reduced from 60px */
   background-color: #ffffff;
+  max-width: 100%; /* ensures it can grow to fill the space */
+  overflow-x: auto; /* optional, if content overflows horizontally */
 }
 
 .content h1 {
