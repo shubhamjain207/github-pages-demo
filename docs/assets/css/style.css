@@ -29,7 +29,7 @@ body {
 }
 
 .sidebar h2 {
-  font-size: 24px;
+  font-size: 18px;
   margin-bottom: 30px;
   border-bottom: 2px solid white;
   padding-bottom: 10px;
@@ -67,13 +67,13 @@ body {
 }
 
 .content h1 {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   margin-bottom: 20px;
   color: #333;
 }
 
 .content p {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   color: #555;
 }
 
