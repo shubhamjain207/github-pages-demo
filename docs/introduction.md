@@ -10,7 +10,7 @@
     </ul>
   </div>
 
-  <section style="font-family: Arial, sans-serif; padding: 40px; line-height: 1.6; background-color: #ffffff; color: #333;">
+  <div class="content">
   <h1 style="color: #f7931e;">DeviceConnect: Overview</h1>
   <p>
     FinBox DeviceConnect transforms the credit assessment process with a new approach that leverages intelligent device data. By examining behavioral patterns and financial signals from mobile devices, DeviceConnect powers the FinBox Inclusion Score (FIS)—a unique rating system designed to expand credit availability beyond conventional bureau reports.
@@ -62,6 +62,6 @@
     <li>Compliant with global data privacy regulations and secure by design.</li>
     <li>Deployable on cloud or on-premise to suit your infrastructure needs.</li>
   </ul>
-</section>
+</div>
 
 </div>
