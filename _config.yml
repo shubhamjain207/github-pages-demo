@@ -1,3 +1,7 @@
 name: something
 title: null
-theme: jekyll-theme-minimal
+nav:
+  - name: Home
+    link: /
+  - name: Docs
+    link: /docs/
