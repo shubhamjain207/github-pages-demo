@@ -24,10 +24,10 @@
   </div>
 
  <div class="content">
-    <h1 style="color: #f7931e;">DeviceConnect: Integration Flow</h1>
-    <p>Follow the steps below to securely collect device intelligence and access real-time insights via FinBox.</p>
+    <h1 style="color: #f7931e;">Credeau: Integration Flow</h1>
+    <p>Follow the steps below to securely collect device intelligence and access real-time insights via Credeau.</p>
 
-    <h2 style="margin-top: 30px; color: #f7931e;">DeviceConnect SDK Integration Summary:</h2>
+    <h2 style="margin-top: 30px; color: #f7931e;">Credeau SDK Integration Summary:</h2>
 
     <ol>
       <li>
@@ -44,7 +44,7 @@
         <ul>
           <li>Initialize the SDK early in the app’s lifecycle (e.g., splash screen or main activity).</li>
           <li>Assign a unique, custom-generated user hash. <strong>Do not use or store PII.</strong></li>
-          <li>Enable periodic syncing to transmit data to FinBox servers securely.</li>
+          <li>Enable periodic syncing to transmit data to Credeau servers securely.</li>
         </ul>
       </li>
 

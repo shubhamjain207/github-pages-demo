@@ -28,12 +28,12 @@
       <p><strong>Credeau SDK</strong> is a powerful SDK designed for seamless integration into lender-facing mobile apps or web platforms. It enables secure data exchange and delivers predictive analytics to support smart, data-driven lending decisions.</p>
 
       <h2 style="margin-top: 30px; color: #f7931e;">Integration Overview</h2>
-      <p>To start using DeviceConnect, the setup involves <strong>two primary stages</strong>:</p>
+      <p>To start using Credeau SDK, the setup involves <strong>two primary stages</strong>:</p>
 
       <hr />
 
       <h3>1. Frontend SDK Integration</h3>
-      <p>This phase involves embedding the DeviceConnect SDK into your client-facing application — whether it's on Android, iOS, or the Web — to facilitate a secure and frictionless data sharing experience.</p>
+      <p>This phase involves embedding the Credeau SDK into your client-facing application — whether it's on Android, iOS, or the Web — to facilitate a secure and frictionless data sharing experience.</p>
 
       <p>Credeau SDK supports a wide range of platforms:</p>
 

@@ -24,12 +24,12 @@
   </div>
 
   <div class="content">
-  <h1 style="color: #f7931e;">DeviceConnect: Overview</h1>
+  <h1 style="color: #f7931e;">Credeau SDK: Overview</h1>
   <p>
-    FinBox DeviceConnect transforms the credit assessment process with a new approach that leverages intelligent device data. By examining behavioral patterns and financial signals from mobile devices, DeviceConnect powers the FinBox Inclusion Score (FIS)—a unique rating system designed to expand credit availability beyond conventional bureau reports.
+    Credeau transforms the credit assessment process with a new approach that leverages intelligent device data. By examining behavioral patterns and financial signals from mobile devices, Credeau powers the Credeau Score — a unique rating system designed to expand credit availability beyond conventional bureau reports.
   </p>
 
-  <h2 style="margin-top: 30px; color: #f7931e;">Why Enterprises Trust DeviceConnect</h2>
+  <h2 style="margin-top: 30px; color: #f7931e;">Why Enterprises Trust Credeau SDK</h2>
 
   <h3 style="margin-top: 20px;">Boost Approval Speed & Reach New Customers</h3>
   <ul>
