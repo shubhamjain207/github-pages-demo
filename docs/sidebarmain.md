@@ -5,7 +5,7 @@
   <h1 class="title">Credeau Docs</h1>
 </div>
 
-<div class="container">
+<div class="layout"> 
   <div class="sidebar">
     <h2>Menu</h2>
     <ul>
@@ -20,3 +20,4 @@
     <p>This is my homepage with a full-height sidebar layout.</p>
   </div>
 </div>
+
