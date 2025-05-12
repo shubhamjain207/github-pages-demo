@@ -14,16 +14,13 @@
       <li><a href="integration.html">Integration</a></li>
     </ul>
 
-    <h2>Data Collection</h2>
+     <h2>Data Collection</h2>
     <ul>
       <li><a href="frontendintegration.html">Frontend Integration</a></li>
     </ul>
 
-  </div>
-
-  <div class="content">
-    <h1>Hello, GitHub Pages!</h1>
-    <p>This is my homepage with a full-height sidebar layout.</p>
-  </div>
 </div>
 
+ <div class="content">
+    <h1 style="color: #f7931e;">Credeau: Frontend Integration Flow</h1>
+</div>
