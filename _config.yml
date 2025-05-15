@@ -1,3 +1,4 @@
 title: Credeau Docs
 markdown: kramdown
 theme: null
+baseurl: "/github-pages-demo"
