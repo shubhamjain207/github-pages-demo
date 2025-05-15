@@ -1,8 +1,3 @@
----
-layout: default
-title: IntroductionSidebar
----
-
 <link rel="stylesheet" href="assets/css/style.css" />
 
 <div class="header">
