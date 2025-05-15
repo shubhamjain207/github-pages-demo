@@ -1,28 +1,8 @@
-<link rel="stylesheet" href="assets/css/style.css" />
+---
+layout: default
+title: Introduction
+---
 
-<div class="header">
-  <img src="assets/images/credeaulogo.png" alt="Credeau Logo" class="logo" />
-  <h1 class="title">Credeau Docs</h1>
-</div>
-
-<div class="layout"> 
-  <div class="sidebar">
-    <h2>Overview</h2>
-    <ul>
-      <li><a href="introduction.html">Introduction</a></li>
-      <li><a href="gettingstarted.html">Getting Started</a></li>
-      <li><a href="integration.html">Integration</a></li>
-    </ul>
-
-     <h2>Data Collection</h2>
-    <ul>
-      <li><a href="frontendintegration.html">Frontend Integration</a></li>
-    </ul>
-
-  </div>
-
- <div class="content">
-    
 ![Credeau Logo](assets/images/credeaulogo.png)
 
 # Credeau Docs
@@ -68,4 +48,3 @@ Follow the steps below to securely collect device intelligence and access real-t
      - Credit underwriting
      - Fraud risk checks
      - Customer segmentation & personalization
-</div> 
