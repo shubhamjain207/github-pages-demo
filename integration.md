@@ -3,22 +3,6 @@ layout: default
 title: Introduction
 ---
 
-![Credeau Logo](assets/images/credeaulogo.png)
-
-# Credeau Docs
-
-## Overview
-
-- [Introduction](introduction.html)
-- [Getting Started](gettingstarted.html)
-- [Integration](integration.html)
-
-## Data Collection
-
-- [Frontend Integration](frontendintegration.html)
-
----
-
 # Credeau: Integration Flow
 
 Follow the steps below to securely collect device intelligence and access real-time insights via Credeau.
