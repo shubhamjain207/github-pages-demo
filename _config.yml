@@ -1,2 +1,3 @@
-name: something
-title: null
+title: Credeau Docs
+markdown: kramdown
+theme: minima
