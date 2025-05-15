@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 <link rel="stylesheet" href="assets/css/docsindex.css" />
 
 <div class="centered-content">
